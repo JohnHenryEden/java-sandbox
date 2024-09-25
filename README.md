@@ -3,7 +3,7 @@
 Runs any Java code snippet, within a single class. Well, not any right now, meybe in the future.
 
 ### Development guide
-- Fist do `npm install` in both directory
+- First do `npm install` in both directory
 
 - Backend run: go to `java-sandbox-back` directory and do `node server.js` in cli;
 
